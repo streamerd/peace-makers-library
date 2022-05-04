@@ -12,9 +12,9 @@
   <!-- <a href="https://github.com/rileystephens28/mintango">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
-  <h1 align="center">Mintango</h1>
+  <h1 align="center">PeaceMakers Library dApp</h1>
   <p align="center">
-    <i>ERC-1155 NFT Minting Dapp</i>
+    <i>A dApp that mints multi-token NFTs; for an expressive World Peace, via a mutually assured regeneration ~ </i>
     <br />
     <br />
     <a href="https://github.com/rileystephens28/mintango/issues">Report Bug</a>
